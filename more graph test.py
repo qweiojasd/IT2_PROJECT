@@ -23,3 +23,4 @@ for line in open('data.txt', 'r'):
 
 plt.plot(X, Y)
 plt.show()
+window.mainloop()
